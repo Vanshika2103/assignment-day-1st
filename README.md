@@ -4,8 +4,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Hello World!</title>
-    <link rel="stylesheet" href="styles.css" />
+    <title>letsupgrade assignment</title>
   </head>
   
   
